@@ -9,3 +9,6 @@ Many recurring events follow subtle patterns over time. Frequency Tracker helps 
 * Do events tend to cluster in the morning, afternoon, evening, or late at night?
 
 The goal is observational pattern discovery based on recorded timestamps.
+
+<img width="1079" height="634" alt="image" src="https://github.com/user-attachments/assets/dc543f67-698e-490d-9ff8-f097c42059a8" />
+
