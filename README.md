@@ -5,8 +5,7 @@ Many recurring events follow subtle patterns over time. Frectrac helps you answe
 
 * How long is the interval between the two most recent occurrences?
 * What is the average duration between events?
-* If we ignore dates and compress all events into a 24-hour frame, at what time do they usually happen?
-* Do events tend to cluster in the morning, afternoon, evening, or late at night?
+* If we ignore dates and compress all events into a 24-hour frame, at what time do they usually happen? Do events tend to cluster in the morning, afternoon, evening, or late at night?
 
 The goal is observational pattern discovery based on recorded timestamps.
 
