@@ -1,7 +1,7 @@
 # frectrac
 Frectrac is an application for tracking recurring events and analyzing their timing patterns. It is designed for observational use cases such as recording any repeated real-world occurrence.
 
-Many recurring events follow subtle patterns over time. Frequency Tracker helps you answer questions such as:
+Many recurring events follow subtle patterns over time. Frectrac helps you answer questions such as:
 
 * How long is the interval between the two most recent occurrences?
 * What is the average duration between events?
