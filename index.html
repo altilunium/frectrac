@@ -397,7 +397,7 @@
         }
 
         const lastGap = t.events[0] - t.events[1];
-        statLast.innerText = formatDuration(lastGap);
+        statLast.innerText = formatDuration(Date.now() - t.events[0]);
 
         let totalDiff = 0;
         for (let i = 0; i < t.events.length - 1; i++) {
